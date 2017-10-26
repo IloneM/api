@@ -1,1 +1,3 @@
-# api
+# README #
+
+Leman Wallet interface with blockchain
